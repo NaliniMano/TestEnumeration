@@ -1,0 +1,48 @@
+Template that can be used 
+(Categories)
+1. UI 
+- Cross browser
+- Cross Platform
+- Alignment / design
+- Different form factors / aspect ratios
+- Multilingual aspects
+- Responsiveness
+2. API
+- Business logic
+- Data integrity
+- Security
+- Throttling
+- Integration
+- Idempotency
+- Rate limiting
+3. Performance
+- Latency (response times
+- Throughput
+- Scale (horzontal E vertical)
+- Memory leaks
+- Throttling
+- Application critical parameters (P90, P95, P99, Avg response times)
+4. Database
+- Schema migrations
+- constraints (keys)
+- Indexes
+- Idempotency
+5. Accessibility
+- Check colous contrast 
+- text to speech.
+- Screen Magnification
+6. Sewrity
+- Data injection
+- XSS-Cross site injection
+- Header validations ( CSP , X- frame options)
+					(content security policy)
+-  Incorrec HITP verbs
+- Improper logging
+- Vulnerabilty assesment scans.
+7. Usability
+- Uses experience 
+- tooltips
+8. Level of Tests
+- Unit tests
+- Narrow Integration
+
