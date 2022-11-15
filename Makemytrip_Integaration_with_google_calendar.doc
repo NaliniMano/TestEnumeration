@@ -1,0 +1,25 @@
+Make my trip to google calendar integration
+
+Functional
+ - book ticket and confirm the entry reflects with right timings
+ -cancel ticket and confirm the entry goes off
+ -book the ticket by giving a blocked gmail account , unblock and check
+ -Book the ticket by giving deactivated account,reactivate and check
+ -book tickef in different TimeZone and check if the time adjusted properly
+ -Notifcations, beign sent to user via email
+  -Synchroniztion,between all session of the same login across the platform
+- What should happen when account got logged out
+ -Invalid email addres
+ -reminders
+-does it just display once ot displayed as recurring events
+
+Compatibility
+ - on different platform
+Performance
+ - time taken to reflect in the calendar
+ - multiple concurrent events
+API
+-check the calendar events are retrieved in api call
+-validate the response body
+-validate the response code and error code
+
