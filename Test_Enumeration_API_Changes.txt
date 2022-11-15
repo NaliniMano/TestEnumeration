@@ -1,0 +1,14 @@
+Test Enumeration for change in API ie adding resource
+
+previously  get /api/v1/items
+changed     get/api/v1/items?ItemId="123"
+
+1) ask for contract document ( swagger/confluence/ Jira)
+2) check new resource added as query param or path param
+3) Understand the impacted micro servies/ area(DB)
+4) Test the service isolation (test api alone/verify in DB)
+5) Test this in integration (feature testing and regression)
+
+
+
+ 
